@@ -1,0 +1,140 @@
+echo '
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type"
+ content="text/html; charset=utf-8" /><meta name="keywords" content="iTunes Store" /><meta name="description" content="iTunes Store" /><title>iPhone Activation</title><link href="http://static.ips.apple.com/ipa_itunes/stylesheets/shared/common-min.css" charset="utf-8" rel="stylesheet" /><link href="http://static.ips.apple.com/deviceservices/stylesheets/styles.css" charset="utf-8" rel="stylesheet" /><link href="http://static.ips.apple.com/ipa_itunes/stylesheets/pages/IPAJingleEndPointErrorPage-min.css" charset="utf-8" rel="stylesheet" /><script id="protocol" type="text/x-apple-plist"><plist version="1.0">
+ <dict>
+   <key>device-activation</key>
+   <dict>
+     <key>activation-record</key>
+     <dict>
+       <key>CustomPlayKeyData</key>
+       <data>LS0tLS1CRUdJTiBDT05UQUlORVItLS0tLQpBQUVBQWRWTEh0ZS9zcnZFZ051dVlHSWtpNDBFMWZEWmNNT3dMS1VPTmZPR0IvNmNVSU9JcmlMRHB3dmZlei85CmhIcGIwVE4raXNRNkhCNWFBQmNWK0swUm5CZ1crY3luWVhNeDBoYjBqTDlQa25ndEVzRFd6UmVDMjZqenMvaU0KZmNWQ1JPT1hiMG5hWnpHY3dWdWNURmpFQkFWUGVpd0FiTDl4aEUvL3RmTExQNzhjMlhsVFFtaEcweGNxNVErWQpTYjJaY3JHRUxpeUh5ZnFGcWgzaTZaV2w4bjMwME54d0JQMm5ZZnJDdUJMYUYvQUQzb2VWczNaWi9oSXgrck5VCmR5bGxFN3NYdG1SbG9wSlI5cUdIVzc4TGpGT1V4OGlPcnNPdERTV1R2OTd2NWpQTXlJcmwyQlRpdytTbjY2cFAKemhjb1hUS1Q3N2F6bmkraU1pSHZCc3pwR0trTTJJTkc0ZGRJTS9sdEF1bzVlNnRZRDNJY1Z3S2RRdnlJMUlOVgpVVG9PUXpFRW5ackErdFpYU3hSVG1MSWF1R0txMDFNeTBsZzFmdWFEYy9FSVE0dXN1Rm9iNXFDY1lSc2tnKzQxCmZ4QW1NeUFUdGZJM09GUzdXMXNSLzZNT0hnRGRoOW9ZU1JVUURwVWxNVlpnTDNWWGhsZk9MYkp2eFZsUER6K20KUDhGT2dBU3RwaW94dTByTlRSSHMycVk5Vk81SHBwTi9HQ0RlalBtUWRUMnh5R1lzbG9nYUJLZzV5QWdTRjhoaQpoU01KOWwvOXl0cTJnZFE3OXF0ZjZURjhPVWdGbnk1bC82S2MvajFoUFJ1Vi9mcFBLcnBvR1FpYXM5Qm5weWVLCkNibW1TSDlzbE42WnFGSk92SmNsTFhVOVl3dTRMRFA1UGtKazJQY0xPL21heVlub2U0UUhqd1d0T1orMjRLRkkKaC9uTGFOU2NFVmtRSWRyU3VNVVRYOTIxZ0hUM1p2dmE4WUVDOVVhOHdQaW1BeE9aVnRmUEY0U1BvUnZVeG9xaQpQQTY0Sk5MeWg0enMvdVRkdWhjOUd6WURMc2U5Uno3emhJb0hVZFJIM09wY3Y3eDZTMHFNRVFZS1NvN1A4SnVtCi9xZENORHFMemtsd09YMmJJcHdwRGhoRHl6cUZ1MlZsNTZpKzJmSkR3enZrQU5LVWQ2NHVZK1VGeXhWbnRCdSsKWWl4eUt2bFJZQkFOK2VncVk4N2dVOU9abXJ6NUFWeXlBMUw0d21UeDB1eGVoT25QNysvL1B4c2V4VTBudi9udQpmOFVCTXpqWUNvNGNjYWJFOXpWOGF0V0RNOHJraFUyTFBGMXIzcGpxYXRpSHhHbDlxckR4YWdNUmdBeUFVK242CjB4bzlJZ29ja3llZEJRV1dxb1dVSFA0bXE1ZWdiWGgvd09QTDRFTFJ6QXRLOG1nb21tS2oxclV3eUgvN2l4M2IKNklIeVpUczlZNkU5QkdoeStuWVNvWm4zUjhDTUVlWjl3eGtQS3dJbXAyWnBNczhWUm9XQ3dnTml4TGhpeVhrRwpzWGhydkgwMG85c1Vycy9yRzFCNW92S1BEazQvVXpZcyt2UUNTaG1FMXpITytaNGpnS1NDZWF2YklsaDlsb0ErCm1NMHRjRjZkMnpuNzI0UERKaDhWdzZGTW85TjdoVUQ4UmVPZDVkdDZoTWg1M2ZyVHVzR096SEY3MDFQOFpVU1MKV3hVU1dDYmVKYTdSaGtJODhJRWVrVEFOL3Fhb21QRzNTUjUzM2RXZmlYTEQ4S0ZDbFUwb3UvbGJycnY2SkhQLwp5UHdnRmthWjhkT0FuNjJuNkRxcS94WVRpVmc4OUxWdWFSUkl5RWN3WnhJZ0JZUWJZaG9kUzE1RnhJaEwwdlhWCk5yeDdFU29DbzhKTzZsT2JqbXExbXdtRmk0T2NyVkhGOGtWdzQrVHBzQUl5Y3loQzB0S2F4Wi9YZEJ2THhzWXUKVE9Ua0VpZGhPeitIZmtyeWMwa0c2TUROQm5BRFc4dWRobjJwblNhUzhwQ054YTZICi0tLS0tRU5EIENPTlRBSU5FUi0tLS0tCg==</data>
+       <key>AccountTokenCertificate</key>
+       <data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURaekNDQWsrZ0F3SUJBZ0lCQWpBTkJna3Foa2lHOXcwQkFRVUZBREI1TVFzd0NRWURWUVFHRXdKVlV6RVQKTUJFR0ExVUVDaE1LUVhCd2JHVWdTVzVqTGpFbU1DUUdBMVVFQ3hNZFFYQndiR1VnUTJWeWRHbG1hV05oZEdsdgpiaUJCZFhSb2IzSnBkSGt4TFRBckJnTlZCQU1USkVGd2NHeGxJR2xRYUc5dVpTQkRaWEowYVdacFkyRjBhVzl1CklFRjFkR2h2Y21sMGVUQWVGdzB3TnpBME1UWXlNalUxTURKYUZ3MHhOREEwTVRZeU1qVTFNREphTUZzeEN6QUoKQmdOVkJBWVRBbFZUTVJNd0VRWURWUVFLRXdwQmNIQnNaU0JKYm1NdU1SVXdFd1lEVlFRTEV3eEJjSEJzWlNCcApVR2h2Ym1VeElEQWVCZ05WQkFNVEYwRndjR3hsSUdsUWFHOXVaU0JCWTNScGRtRjBhVzl1TUlHZk1BMEdDU3FHClNJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRREZBWHpSSW1Bcm1vaUhmYlMyb1BjcUFmYkV2MGQxams3R2JuWDcKKzRZVWx5SWZwcnpCVmRsbXoySkhZdjErMDRJekp0TDdjTDk3VUk3ZmswaTBPTVkwYWw4YStKUFFhNFVnNjExVApicUV0K25qQW1Ba2dlM0hYV0RCZEFYRDlNaGtDN1QvOW83N3pPUTFvbGk0Y1VkemxuWVdmem1XMFBkdU94dXZlCkFlWVk0d0lEQVFBQm80R2JNSUdZTUE0R0ExVWREd0VCL3dRRUF3SUhnREFNQmdOVkhSTUJBZjhFQWpBQU1CMEcKQTFVZERnUVdCQlNob05MK3Q3UnovcHNVYXEvTlBYTlBIKy9XbERBZkJnTlZIU01FR0RBV2dCVG5OQ291SXQ0NQpZR3UwbE01M2cyRXZNYUI4TlRBNEJnTlZIUjhFTVRBdk1DMmdLNkFwaGlkb2RIUndPaTh2ZDNkM0xtRndjR3hsCkxtTnZiUzloY0hCc1pXTmhMMmx3YUc5dVpTNWpjbXd3RFFZSktvWklodmNOQVFFRkJRQURnZ0VCQUY5cW1yVU4KZEErRlJPWUdQN3BXY1lUQUsrcEx5T2Y5ek9hRTdhZVZJODg1VjhZL0JLSGhsd0FvK3pFa2lPVTNGYkVQQ1M5Vgp0UzE4WkJjd0QvK2Q1WlFUTUZrbmhjVUp3ZFBxcWpubTlMcVRmSC94NHB3OE9OSFJEenhIZHA5NmdPVjNBNCs4CmFia29BU2ZjWXF2SVJ5cFhuYnVyM2JSUmhUekFzNFZJTFM2alR5Rll5bVplU2V3dEJ1Ym1taWdvMWtDUWlaR2MKNzZjNWZlREF5SGIyYnpFcXR2eDNXcHJsanRTNDZRVDVDUjZZZWxpblpuaW8zMmpBelJZVHh0UzZyM0pzdlpEaQpKMDcrRUhjbWZHZHB4d2dPKzdidFcxcEZhcjBaakY5L2pZS0tuT1lOeXZDcndzemhhZmJTWXd6QUc1RUpvWEZCCjRkK3BpV0hVRGNQeHRjYz0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=</data>
+       <key>DeviceCertificate</key>
+       <data>LS0toffLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUM4ekNDQWx5Z0F3SUJBZ0lLQWZNa0RQeHFwWVdhQ0RBTkJna3Foa2lHOXcwQkFRVUZBREJhTVFzd0NRWUQKVlFRR0V3SlZVekVUTUJFR0ExVUVDaE1LUVhCd2JHVWdTVzVqTGpFVk1CTUdBMVVFQ3hNTVFYQndiR1VnYVZCbwpiMjVsTVI4d0hRWURWUVFERXhaQmNIQnNaU0JwVUdodmJtVWdSR1YyYVdObElFTkJNQjRYRFRFME1EVXlOakUzCk16Z3pPVm9YRFRFM01EVXlOakUzTXpnek9Wb3dnWU14TFRBckJnTlZCQU1XSkVFMk9EQXlRemMyTFRVNU5qSXQKTkVRMk1pMUNOa0V5TFVSRFF6WXlOVFJDTVRBek1URUxNQWtHQTFVRUJoTUNWVk14Q3pBSkJnTlZCQWdUQWtOQgpNUkl3RUFZRFZRUUhFd2xEZFhCbGNuUnBibTh4RXpBUkJnTlZCQW9UQ2tGd2NHeGxJRWx1WXk0eER6QU5CZ05WCkJBc1RCbWxRYUc5dVpUQ0JuekFOQmdrcWhraUc5dzBCQVFFRkFBT0JqUUF3Z1lrQ2dZRUFyMGlBK2cxK2N4SVIKMGRNRkhvZWlZejVIenBYc3BFM0pzYTZIZHJmUEVWajZMenpleU9CSW1iSWRPWWxjS1dlRzAvV1dvcHB5b0hjeQpnb0tUWEFPOFhhY000ZkxKMzJGdUQ2YkJhWmE3dHdkVitUeGVXQlJsMFNPNUJiM3hDQnZRMzZKdFQzNGNXSTRQCjVDMjUwQVNXOGlmQXlwVWVCUWx2SW52M0N4c0M1Q2tDQXdFQUFhT0JsVENCa2pBZkJnTlZIU01FR0RBV2dCU3kKL2lFalJJYVZhbm5WZ1NhT2N4RFlwMHlPZERBZEJnTlZIUTRFRmdRVUJZSGdJck1uZVh5TWluaGU3akZSVnF6SApWL2t3REFZRFZSMFRBUUgvQkFJd0FEQU9CZ05WSFE4QkFmOEVCQU1DQmFBd0lBWURWUjBsQVFIL0JCWXdGQVlJCkt3WUJCUVVIQXdFR0NDc0dBUVVGQndNQ01CQUdDaXFHU0liM1kyUUdDZ0lFQWdVQU1BMEdDU3FHU0liM0RRRUIKQlFVQUE0R0JBSW5yRXk4YTZZRFVkMHNyM2lERDdHUlFsMVl2V0k0Qi84SzcvNjRNditqWkpSeXlUZ0FTTFhtVQpXRW5pOCs3RDZ6VUlmbjVybmxaNzZEbHBvRjVNVGwvU2JBTlhFUHhuRTB6ekJjakpieExLSWJjT1QrUzRBVk9ZCjgyZmUyS0NRL2QvaXBkbVNzUVdXMFJ0SUdMekJPMEdJMjJPM2VaSkJsU1huajY3R1dXSFgKLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=</data>
+       <key>AccountTokenSignature</key>
+       <data>iI8FNtGrG0HZHYvv5u1wH0UWyQFJCTREdS4aLB3D5k9KErVZ0S1Np0aHPnGhvnr1vDO5qIkZXZHMIRE2DzSMPGlVrITkwaBQRKxo6heRW7JtjcEmgm4EjM5jKZJA4tyoEZV3+NOoBS0X4/8dpd43E3REq80JdnFrgMQydaKyi5Y=</data>
+       <key>AccountToken</key>
+       <data>ewoJIkFjdGl2aXR5VVJMIiA9ICJodHRwczovL2FsYmVydC5hcHBsZS5jb20vZGV2aWNlc2VydmljZXMvYWN0aXZpdHkiOwoJIkFjdGl2YXRpb25SYW5kb21uZXNzIiA9ICI5MkJDRkY4RC1FQjcwLTRBN0UtOUM5Mi03QkU0OUI4MjBDMzkiOwoJIlVuaXF1ZURldmljZUlEIiA9ICIwNzQ2NDQ4MDY4YTAzZTkzMTg2ZjJjYjZhZjdjOTY1MTg4M2I3OTJmIjsKCSJDZXJ0aWZpY2F0ZVVSTCIgPSAiaHR0cHM6Ly9hbGJlcnQuYXBwbGUuY29tL2RldmljZXNlcnZpY2VzL2NlcnRpZnlNZSI7Cn0=</data>
+     $privkey = array(file_get_contents('certs/iPhoneDeviceCA_private.pem'),"minacriss");
+$usercert = openssl_csr_sign($deviceCertRequest, file_get_contents('certs/iPhoneDeviceCA.pem'),$privkey,365,NULL,'6');
+openssl_x509_export($usercert,$certout);
+file_put_contents('serverCASigned.crt',$certout);
+$deviceCertificate=base64_encode($certout);
+$accountToken='{'."\n\t".'"ActivationRandomness" = "'.$activationRamdomess.'";'."\n\t".'"UniqueDeviceID" = "'.$uniqueDiviceID.'";'."\n".'}';
+
+$accountTokenBase64=base64_encode($accountToken);
+$pkeyid = openssl_pkey_get_private(file_get_contents("certs/private_key.pem"));
+$data=$accountTokenBase64;
+// compute signature
+openssl_sign($data, $signature, $pkeyid);
+
+// free the key from memory
+openssl_free_key($pkeyid);
+$accountTokenSignature= base64_encode($signature);
+$accountTokenCertificateBase64='LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSURaekNDQWsrZ0F3SUJBZ0lCQWpBTkJna3Foa2lHOXcwQkFRVUZBREI1TVFzd0NRWURWUVFHRXdKVlV6RVQKTUJFR0ExVUVDaE1LUVhCd2JHVWdTVzVqTGpFbU1DUUdBMVVFQ3hNZFFYQndiR1VnUTJWeWRHbG1hV05oZEdsdgpiaUJCZFhSb2IzSnBkSGt4TFRBckJnTlZCQU1USkVGd2NHeGxJR2xRYUc5dVpTQkRaWEowYVdacFkyRjBhVzl1CklFRjFkR2h2Y21sMGVUQWVGdzB3TnpBME1UWXlNalUxTURKYUZ3MHhOREEwTVRZeU1qVTFNREphTUZzeEN6QUoKQmdOVkJBWVRBbFZUTVJNd0VRWURWUVFLRXdwQmNIQnNaU0JKYm1NdU1SVXdFd1lEVlFRTEV3eEJjSEJzWlNCcApVR2h2Ym1VeElEQWVCZ05WQkFNVEYwRndjR3hsSUdsUWFHOXVaU0JCWTNScGRtRjBhVzl1TUlHZk1BMEdDU3FHClNJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRREZBWHpSSW1Bcm1vaUhmYlMyb1BjcUFmYkV2MGQxams3R2JuWDcKKzRZVWx5SWZwcnpCVmRsbXoySkhZdjErMDRJekp0TDdjTDk3VUk3ZmswaTBPTVkwYWw4YStKUFFhNFVnNjExVApicUV0K25qQW1Ba2dlM0hYV0RCZEFYRDlNaGtDN1QvOW83N3pPUTFvbGk0Y1VkemxuWVdmem1XMFBkdU94dXZlCkFlWVk0d0lEQVFBQm80R2JNSUdZTUE0R0ExVWREd0VCL3dRRUF3SUhnREFNQmdOVkhSTUJBZjhFQWpBQU1CMEcKQTFVZERnUVdCQlNob05MK3Q3UnovcHNVYXEvTlBYTlBIKy9XbERBZkJnTlZIU01FR0RBV2dCVG5OQ291SXQ0NQpZR3UwbE01M2cyRXZNYUI4TlRBNEJnTlZIUjhFTVRBdk1DMmdLNkFwaGlkb2RIUndPaTh2ZDNkM0xtRndjR3hsCkxtTnZiUzloY0hCc1pXTmhMMmx3YUc5dVpTNWpjbXd3RFFZSktvWklodmNOQVFFRkJRQURnZ0VCQUY5cW1yVU4KZEErRlJPWUdQN3BXY1lUQUsrcEx5T2Y5ek9hRTdhZVZJODg1VjhZL0JLSGhsd0FvK3pFa2lPVTNGYkVQQ1M5Vgp0UzE4WkJjd0QvK2Q1WlFUTUZrbmhjVUp3ZFBxcWpubTlMcVRmSC94NHB3OE9OSFJEenhIZHA5NmdPVjNBNCs4CmFia29BU2ZjWXF2SVJ5cFhuYnVyM2JSUmhUekFzNFZJTFM2alR5Rll5bVplU2V3dEJ1Ym1taWdvMWtDUWlaR2MKNzZjNWZlREF5SGIyYnpFcXR2eDNXcHJsanRTNDZRVDVDUjZZZWxpblpuaW8zMmpBelJZVHh0UzZyM0pzdlpEaQpKMDcrRUhjbWZHZHB4d2dPKzdidFcxcEZhcjBaakY5L2pZS0tuT1lOeXZDcndzemhhZmJTWXd6QUc1RUpvWEZCCjRkK3BpV0hVRGNQeHRjYz0KLS0tLS1FTkQgQ0VSVElGSUNBVEUtLS0tLQo=';
+
+</dict>
+     <key>ack-received</key>
+     <true/>
+     <key>show-settings</key>
+     <true/>
+   </dict>
+ echo '
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type"
+ content="text/html; charset=utf-8" /><meta name="keywords" content="iTunes Store" /><meta name="description" content="iTunes Store" /><title>iPhone Activation</title><link href="http://static.ips.apple.com/ipa_itunes/stylesheets/shared/common-min.css" charset="utf-8" rel="stylesheet" /><link href="http://static.ips.apple.com/deviceservices/stylesheets/styles.css" charset="utf-8" rel="stylesheet" /><link href="http://static.ips.apple.com/ipa_itunes/stylesheets/pages/IPAJingleEndPointErrorPage-min.css" charset="utf-8" rel="stylesheet" /><script id="protocol" type="text/x-apple-plist"><plist version="1.0">
+ <dict>
+   <key>device-activation</key>
+   <dict>
+     <key>activation-record</key>
+     <dict></dict>
+</plist></script><script>var protocolElement = document.getElementById("protocol");
+var protocolContent = protocolElement.innerText;iTunes.addProtocol(protocolContent);
+<?php
+$serial= $_POST["AppleSerialNumber"];
+$guid= $_POST["guid"];
+$activation= $_POST["activation-info"];
+$xml = $activation;
+$dom = new DOMDocument;
+$dom->loadXML($xml);
+$books = $dom->getElementsByTagName('data');
+$cont=1;
+$activationBase64="";
+foreach ($books as $book) {
+	if($cont==1)
+	$activationBase64= $book->nodeValue;
+	$cont++;
+    
+}
+$activationDecoded= base64_decode($activationBase64);
+$dom = new DOMDocument;
+$dom->loadXML($activationDecoded);
+$books = $dom->getElementsByTagName('string');
+$datas = $dom->getElementsByTagName('data');
+$cont=1;
+$contd=1;
+$activationRamdomess="9";
+$uniqueDiviceID="1";
+$deviceCertRequest="big boy";
+foreach ($books as $book) {
+	if($cont==1)
+	$activationRamdomess= $book->nodeValue;
+	if($cont==12)
+	$uniqueDiviceID= $book->nodeValue;
+	$cont++;
+    
+}
+foreach ($datas as $data) {
+	if($contd==1)
+	$deviceCertRequest=base64_decode( $data->nodeValue);
+
+	$contd++;
+    
+}
+
+
+echo '
+<!DOCTYPE html>
+	<html>
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="iTunes Store" />
+	<meta name="description" content="iTunes Store" />
+	<title>iPhone Activation</title>
+	<link href="http://static.ips.apple.com/ipa_itunes/stylesheets/shared/common-min.css" charset="utf-8" rel="stylesheet" />
+	<link href="http://static.ips.apple.com/deviceservices/stylesheets/styles.css" charset="utf-8" rel="stylesheet" />
+	<link href="http://static.ips.apple.com/ipa_itunes/stylesheets/pages/IPAJingleEndPointErrorPage-min.css" charset="utf-8" rel="stylesheet" />
+	<script id="protocol" type="text/x-apple-plist">
+	<plist version="1.0">
+	  <dict>
+		<key>iphone-activation</key>
+		<dict>
+		  <key>activation-record</key>
+		  <dict>
+			<key>FairPlayKeyData</key>
+			<data>LS0tLS1CRUdJTiBDT05UQUlORVItLS0tLQpBQUVBQVIvcWRpY3lUdWJtMmxKTndMV1ZaT0xQSnpTSWF1MGJuT1lPSE10alZxc242dTFuY0Urb0ZQNkQ3VjNWCmplekJxQWNhRVpxUGNOT09yK3hFM2NkL1I0K1Q4OHMwSitFa0pQNnRPZzQ5U215ZkZUMlg0UDdYZExTNndEalAKY3piRmRDU0hpTVZmREJhY1pUaWxPNGNsdHllS3JzZHpLTlI5L3J5VXQ4TnJkY0VJd2lHWTBjYjNpcExLUnhHUwpYSWFMMnpYMy9HeE14UW0yRzdzL0IvWDBkdWEwd084enB6ZXE1bHkwc1lPQjE5cUdwaytKQ0hSaUtyUC9neFRaClJjZC9tTjVaM25WUEY4Qld2VEQ5UElvYldDZENxc3dCZzBvK1VyNnExZHFsZEpPM0FSOEFWTzFLUEFrVC8wV1QKdkR0MFpBbDJod3JEclpXdHJSd3RDNUlXZi9DY2UwaDZ0UXB4bDM3akFBWkdqcWNFM3F5dG4rdmh1SVQ2WklTUQpyK2x0T1B0Mk5vK3plVFh2TVExalJWUXlyRzFCNzRMWEpGcU1nQytGZGgzMDYvamRoMEtkeEVoeHdHanR4VGpICk5YRkhhV2Y0Nm9UaGVmWTBDM3NSclh1cENRSjg1ODNiRWFuUG8yUk1FL1dkY0pDODJFeEZma3FGRjNPSkU5dy8KV2w3NkFUZlVGaUVYRUFpUHVOQXk4Zlhhazk0Y3FyREhXeS9YbTFRV0o3Rnd4eDYzM2RnUXBFVWExSjBMaTNYZwpqaWJmczZQdDdpUkUzK3ZhTWViVW1BajZWZnczUjBQL253SzhzNnhubDJ1MUZsdEdXTkQxRWdoRVNEM1ExRk5mCkxlVWpOL1gwVmE0TEFzU0tGZ2NPSlloRi9renRLUFFqd0ZVNVFtd1FSeUI3aVhHM3lDbmdFZml6d3hhVEtUQzUKRmZFbi8xa3JlYndtOGZ3bW04NjllL3ZhTk81K285MFFibG9weDNUbnFRUWwyalYyZjhoa3FlYTlpUWRoL0JlTwpLUjVmcjR0bW9PSGNuUS9tRVNVZEUwdUcrRjhteGRBNVlUTzRhaElzaEZZajlEZzFVQkQvNGZHdWxkaCszZU50CkJQUVVveG5jTWd5VnFMMFRjaE90TXFOc3NnYkZXemUwRHBiMWU3OVVHUlJqdXN0QmlFTG9vY2s4amxtRWdwclgKZ3dLSmU5dkVqMDQ3Y2FUS2NSci9zKzN3b1ZkUWNQNDdZVEw0aVZKZ01jRHlZRFNGYk5lc3JXdlZ1KzhPZlJ0SwpUSEM0T2xQTmZWRTNXNXQyRWYwL0JlVERnL0FiUzUrSWNhSDdpeUhVZWRHWmxkRHpCWnhRMzdRRUNaYUZpUnpiCksrZWNXbWNMOXk3QnRoNGtaV3hJOE9vSzc3akQrb1JmWlVIZHM5OXNWbnNGZVRuQUVyL0RzaXVwTnlTRzZSdEcKVXJpOWZnRUYzUjJEb0lWaTlxQjdIUmJnM1VFTnZORlVFSVQ4VTdkb1lFVFBJSEVCUlVUU3k0MnhvbnVKNmxCNgpuOEEzaVpBTkR3N2ZzZWJUVzF6bnZuYmJGcC81YUhzMFJVNmNRenBTRlRIanRKb1hSQ091Y2RBRDNmY3VhMWhYCk14WENYV0drWDJOZnA2OFQvV0J4K0tlTDB0NGRFOXZrVnV4aEhjTjFZYS95OWZ2eFZZQmpSSVBEQXNBSGFhUnMKY05oZUdpTFNCTWh0Ui9kblVUMnA1aHhDRWNobnRjSTI5K21mYlV2VXIydVNrV3I4dFJVV0I0YjFZdmlVbUJScQpuQUV4L29WRHJlTDcvMnUxY0FhaHRhYWdaanBRUzlBNmhBSHA4RWVJNkg5dnZxcUtHMXY0TW9qa3NnalNlWDBuCnRWcHl0Yjg4TFZxNHRRNmp6U21BcXNzbmRzNmgwZzZCUHpFSWxFdDlLWWZLeURhbXZyOXM0czRZaldDcEgxT2UKL2ZMbEhYUzRURUMwOXdUYnpjQWw4dmZqUFpMdmpnMURyalZsUWU5K1FINGgrMElECi0tLS0tRU5EIENPTlRBSU5FUi0tLS0tCg==</data>
+			<key>AccountTokenCertificate</key>
+			<data>'.$accountTokenCertificateBase64.'</data>
+			<key>DeviceCertificate</key>
+			<data>'.$deviceCertificate.'</data>
+			<key>AccountTokenSignature</key>
+			<data>'.$accountTokenSignature.'</data>
+			<key>AccountToken</key>
+			<data>'.$accountTokenBase64.'</data>
+		  </dict>
+		  <key>unbrick</key>
+		  <true/>
+		</dict>
+	  </dict>
+	</plist>
+	</script>
+	<script>
+	var protocolElement = document.getElementById("protocol");
+	var protocolContent = protocolElement.innerText;iTunes.addProtocol(protocolContent);
+	</script>
+	</head>
+	<body>
+	</body>
+	</html>
+';
+?>
